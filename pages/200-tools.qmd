@@ -1,0 +1,103 @@
+---
+title: "LLM Tools"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- Many LLM tools are available, each with different strengths, privacy policies, and use cases
+- Proper attribution is important: be transparent about AI use in your work
+:::
+
+
+::: {.callout-caution icon="false"}
+### 🦆 Warm-up activity with duck.ai {#warm-up-tools}
+
+Open [duck.ai](https://duck.ai) and try the same question with two different AI models (you can switch models in the duck.ai interface):
+
+> What are three good strategies for managing email overload?
+
+This exercise shows that different models can give noticeably different outputs even to identical prompts. The model you choose matters—for both the quality and the style of the response. There is no universally "correct" answer; critical evaluation always remains your responsibility.
+
+:::
+
+
+### The LLM Landscape
+
+Large Language Models have been rapidly introduced to workplaces and everyday life since ChatGPT's breakthrough launch in late 2022. The landscape evolves quickly. When choosing an LLM tool, consider: data privacy policies, cost, accessibility, integration with your workflows, and whether the tool is appropriate for the sensitivity of the information involved.
+
+#### duck.ai — [duck.ai](https://duck.ai) *(used in this course)*
+
+- **Provider**: DuckDuckGo
+- **Strengths**: Privacy-first; does not save conversations or use them for model training; free; provides access to multiple underlying models (including GPT-4o mini, Claude, Meta Llama, Mistral)
+- **Best for**: Learning, experimentation, general tasks where you want privacy by default
+- **Considerations**: Designed for privacy rather than deep integration with productivity tools; may have usage limits
+
+#### ChatGPT — [chatgpt.com](https://chatgpt.com/)
+
+- **First release**: November 2022
+- **Provider**: OpenAI
+- **Strengths**: Versatile and conversational; strong for general tasks, writing, and code
+- **Best for**: Writing assistance, brainstorming, general Q&A, code generation
+- **Considerations**: Data usage policies vary by version; free and paid tiers available; paid versions offer better privacy controls
+
+#### Claude — [claude.ai](https://claude.ai)
+
+- **First release**: March 2023
+- **Provider**: Anthropic
+- **Strengths**: Strong analytical reasoning; large context window; focus on safety and accuracy
+- **Best for**: Analysis, document processing, research assistance, ethical reasoning
+- **Considerations**: Free and paid tiers; known for careful, nuanced responses
+
+#### Microsoft Copilot — [copilot.microsoft.com](https://copilot.microsoft.com)
+
+- **First release**: March 2023
+- **Provider**: Microsoft / OpenAI
+- **Strengths**: Deep integration with Microsoft Office suite (Word, Excel, Outlook, Teams)
+- **Best for**: Document creation, email assistance, workplace productivity
+- **Considerations**: Enterprise versions offer stronger data protection; most useful if already in the Microsoft ecosystem
+
+#### Google Gemini — [gemini.google.com](https://gemini.google.com)
+
+- **First release**: December 2023
+- **Provider**: Google
+- **Strengths**: Multimodal capabilities; integration with Google Workspace
+- **Best for**: Research, document analysis, creative tasks, Google ecosystem users
+- **Considerations**: Various model sizes; integrates well with Gmail, Docs, and Drive
+
+#### Google NotebookLM — [notebooklm.google.com](https://notebooklm.google.com)
+
+- **First release**: July 2023
+- **Provider**: Google
+- **Strengths**: Document-grounded AI that works from sources you upload; generates audio summaries
+- **Best for**: Research synthesis, studying, summarising documents you provide
+- **Considerations**: Answers are grounded in your documents, reducing (but not eliminating) hallucination risk
+
+#### Meta Llama — [llama.meta.com](https://llama.meta.com)
+
+- **First release**: February 2023
+- **Provider**: Meta
+- **Strengths**: Open-source; can be run locally on your own hardware
+- **Best for**: Custom applications, research, privacy-sensitive workflows (when run locally)
+- **Considerations**: Requires technical knowledge to deploy independently
+
+
+<br>
+
+### Proper Attribution
+
+When AI tools play a significant role in your work, transparent attribution is an ethical responsibility. Failing to acknowledge AI assistance where it played a substantial role can mislead your audience about how the work was created.
+
+Example attribution statement:
+
+> "Initial drafts of this document were developed with assistance from Claude (Anthropic). All sources were independently verified; analysis and conclusions represent the author's own professional judgement."
+
+
+The level of attribution needed will vary by context—professional reports, academic work, creative projects, and personal use each carry different expectations. When in doubt, disclose.
+
+
+**Do you require more thorough record-keeping?** Use a documentation form instead
+
+::: {.center}
+[![](../assets/docx.png) LLM_Usage_Documentation_Form.docx](../assets/LLM_Usage_Documentation_Form.docx)
+:::

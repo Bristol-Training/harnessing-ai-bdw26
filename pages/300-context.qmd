@@ -1,0 +1,126 @@
+---
+title: "Context Matters"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- Context is all the information you give an LLM to understand your request (role, purpose, audience, requirements)
+- Be specific, not vague — clear context gets relevant responses; vague prompts get generic ones
+- Refine iteratively — start basic, review the output, add details, repeat until satisfied
+- Never share sensitive personal information with AI tools, even if the task seems straightforward
+:::
+
+
+::: {.callout-caution icon="false"}
+### 🦆 Warm-up activity with duck.ai {#warm-up-context}
+
+Open [duck.ai](https://duck.ai) and send this minimal prompt:
+
+> Write me a report about managing Type 2 diabetes
+
+Then immediately send a follow-up prompt that adds context:
+
+> I am a community nurse preparing a 1-page briefing for patients about managing Type 2 diabetes at home. Please write a clear, accessible summary suitable for someone with no medical background.
+
+
+The first prompt will likely produce a very generic response—possibly asking you to clarify, or generating a template so broad it is almost useless. The second prompt, with clear context, should produce something targeted and practical.
+:::
+
+
+
+Large Language Models work by navigating through vast embedding spaces—multidimensional representations of knowledge and concepts. Vague or poorly defined **context** can lead the model to explore irrelevant areas of this space, producing generic or off-target responses. Well-crafted context act as precise navigation instructions, guiding the model to the most relevant knowledge areas and ensuring outputs that match your specific needs and context.
+
+![Multidimensional embedding space example.](../assets/3d-embedding.png){width=80%}
+
+
+
+### Why Context Matters for LLMs
+
+Context is everything you provide to an LLM to help it understand your request and generate appropriate responses within your session. Without proper context, LLMs often produce generic, inaccurate, or inappropriate outputs.
+
+Because LLMs have **no memory between separate sessions**, they have no knowledge of who you are, your organisation's policies, or the purpose of your request unless you tell them.
+
+**Example of poor context:**
+
+> Write me a report about productivity
+
+**Example of better context:**
+
+> I am a team lead in a mid-sized technology company. I need to write a 2-page summary about remote work productivity for our department heads, focusing on evidence-based strategies and including practical implementation steps for hybrid teams.
+
+
+
+::: {.callout-important}
+## A note on privacy
+
+While LLMs have no memory between separate chat sessions, **the data you share within each session may be stored or used by the service provider**. Always check the tool's privacy policy before sharing any personal, confidential, or sensitive information.
+
+When in doubt, anonymise or use placeholder data:
+
+🚫 Do not share: personal records, health data, confidential business information, legal advice, passwords, or unpublished research  
+✅ Do share: general descriptions of your role, anonymised examples, publicly available context
+:::
+
+### Types of Context
+
+**Explicit Context** — Information you directly provide, for example:
+
+- Your role and area of work
+- The purpose of the task
+- The intended audience
+
+**Implicit Context** — Assumptions the LLM makes based on your prompt, for example:
+
+- Cultural background
+- Expected level of technical detail
+- Formality of language
+
+The general principle we want to follow is making implicit context explicit. The more specific and detailed your context, the better the LLM can tailor its response to your needs.
+
+
+### Working Within Context Limits
+
+LLMs have **context windows**—limits on how much text they can process at once. Some practical strategies:
+
+- Summarise lengthy background information and prioritise what is most essential
+- Break complex tasks into smaller, sequential steps
+- Use previous outputs as context for follow-up requests (within the same session)
+
+### Iterative Context Building
+
+You will rarely get the ideal result on the first attempt. A productive strategy is to start simple and refine:
+
+1. **Initial request**: Provide core context
+2. **Review output**: Identify what is missing or off-target
+3. **Refine context**: Add specific details or correct misunderstandings
+4. **Iterate**: Repeat until the output meets your needs
+
+---
+
+### Exercise 2: Context Writing
+
+**Scenario**: You are volunteering at a community food bank. You need to create a guide about healthy eating for a low-income community group in your area.
+
+**Task**: Start with the minimal prompt below, observe the output, then craft an improved version with full context and compare the results in [duck.ai](https://duck.ai).
+
+**Initial prompt:**
+
+> Write a guide about healthy eating
+
+::: {.callout-tip collapse="true"}
+## Solution example
+
+#### Contextualised prompt
+
+> **Context**: I am a volunteer coordinator for a community food bank serving low-income families in an urban neighbourhood. Many members are under financial pressure and may have limited access to fresh produce.
+>
+> **Purpose**: Create a practical, encouraging guide to eating healthily on a tight budget—without making people feel judged about their circumstances.
+>
+> **Audience**: Adults of mixed literacy levels; some may have limited English. Keep language simple and avoid jargon.
+>
+> **Scope**: Cover practical tips for affordable nutrition: meal planning, batch cooking, making use of frozen and tinned vegetables, and interpreting food labels. Exclude expensive "superfoods" or diet trends.
+>
+> **Format**: One page with clear headings, short bullet points, and a friendly tone.
+
+:::

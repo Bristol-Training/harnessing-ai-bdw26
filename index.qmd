@@ -1,0 +1,45 @@
+---
+title: "Introduction"
+---
+
+
+Artificial Intelligence refers to computer systems that can perform tasks typically requiring human intelligence, such as understanding language, recognising patterns, and making decisions. While AI research has a long history, today's widespread interest is driven largely by **generative AI**—systems that create new content such as text, images, and code based on patterns learned from vast amounts of data. You have probably heard of and used *chatbot* tools like ChatGPT, Copilot, or Claude. Here we will learn how to use Large Language Models (LLMs) effectively and responsibly.
+
+::: {.callout-important}
+## Guiding Principles
+
+This course is grounded in internationally recognised principles for responsible AI use, drawing on the **UNESCO Recommendation on the Ethics of Artificial Intelligence (2021)**—the first global standard on AI ethics, adopted by 193 member states. Our approach emphasises:
+
+- **Human dignity and rights**: AI should serve people, not the other way around
+- **Transparency**: Being open about when and how AI is used
+- **Critical thinking**: Using AI to support, not replace, intellectual rigour
+- **Fairness and inclusion**: Being mindful of bias and ensuring equitable outcomes
+- **Environmental responsibility**: Recognising the ecological cost of AI use
+:::
+
+### Learning Objectives
+
+By the end of this course, you will be able to:
+
+- Understand what LLMs are and their key capabilities and limitations
+- Apply responsible practices when using AI tools in your work or daily life
+- Craft effective prompts that enhance rather than replace critical thinking
+- Navigate ethical considerations including bias, privacy, and environmental impact
+- Understand the UNESCO framework for ethical AI use and how it applies to everyday decisions
+
+
+### About this course
+
+These course materials have been designed and developed by  **Pau Erola, PhD** (Jean Golding Institute, University of Bristol).
+
+Thanks to Huw Day for his feedback and recommendations on ethics and environmental impact. Thanks to Leo Gorman, Will Chapman, Rita Rasteiro, Richard Lane, James Thomas and Patricia Holley for their valuable comments and corrections.
+
+This course uses [duck.ai](https://duck.ai) as the hands-on AI tool for exercises—a privacy-respecting interface to LLMs provided by DuckDuckGo, which does not retain your conversations or use them for model training.
+
+We used the enhancement of AI in alignment with our institutional guidance:
+
+- **Microsoft Copilot (GPT-4 & GPT-5)**-- Generation of synthetic datasets, documents and examples
+- **Claude (Sonnet 4)** -- Writing assistance, examples generation
+- **ChatGPT (GPT-5)** -- Generation of figures
+
+For queries related to this course please contact [jgi-training@bristol.ac.uk](mailto:jgi-training@bristol.ac.uk).

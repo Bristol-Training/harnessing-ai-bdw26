@@ -1,0 +1,89 @@
+---
+title: "Conversational Learning"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- LLMs work best as a **thinking partner** in a back-and-forth conversation, not a one-shot question machine
+- You can steer, correct, and refine outputs across multiple turns within the same session
+- We must guard against learning losses and ensure AI supports intellectual development
+:::
+
+
+### Conversational Learning Strategies
+
+#### Iterative Refinement
+
+Rather than trying to write the perfect prompt upfront, start with a reasonable draft and iterate:
+
+1. Get an initial output
+2. Identify what is missing, incorrect, or off in tone
+3. Ask the model to revise specific parts
+4. Repeat until the output is useful
+
+#### Asking for Explanations and Alternatives
+
+Good conversational prompts include:
+
+- *"Why did you recommend that approach?"*
+- *"What are the alternatives to this?"*
+- *"What are the weaknesses of this argument?"*
+- *"Summarise what we have discussed so far"*
+
+::: {.callout-important}
+### University of Bristol AI guidance
+
+AI should enhance learning and understanding, not shortcut the thinking process. We must "guard against learning losses" and ensure AI supports intellectual development.
+
+:::
+
+#### Challenging the Model
+
+LLMs are often overly agreeable. If a response seems suspicious:
+
+- *"Are you sure about that? Please double-check your reasoning."*
+- *"I've heard conflicting information on this. What is the evidence?"*
+- *"What might a critic of this position say?"*
+
+::: {.callout-warning}
+## LLMs are not always right—and they can be persuaded
+
+Research shows that LLMs sometimes change their answers when challenged, even when their original answer was correct. This "sycophantic" behaviour means you should verify important claims independently, not simply rely on the model's confidence.
+:::
+
+#### Persona and Role Prompting in Conversation
+
+You can guide the quality and style of a conversation by establishing a role at the outset:
+
+> "For this conversation, act as a critical friend reviewing my business plan. Your job is to find weaknesses and challenge assumptions, not just be encouraging."
+
+Then ask your questions within that framing.
+
+---
+
+### Exercise 4: A Guided Conversation
+
+This exercise continues directly from Exercise 3. Do not start a new chat — use the same <duck.ai> session where you generated the workshop agenda.
+
+**Task**: Send each of the following follow-up prompts in turn, reading the response carefully before moving on.
+
+**Prompt 2 — Play devil's advocate:**
+
+> Play devil's advocate with the agenda you just proposed. What could go wrong, and what assumptions have you made that might not hold?
+
+**Prompt 3 — Request an alternative:**
+
+> Now give me a completely different version of the agenda that takes a less structured, more informal approach — assume the participants learn better through open conversation than through slides and activities.
+
+**Prompt 4 — Test consistency:**
+
+> Looking back at both versions of the agenda you proposed, which one do you actually think is better for this audience, and why?
+
+After completing the exercise, consider:
+
+- **Devil's advocate**: Did the model identify genuine weaknesses in its own agenda, or did it give a superficial critique? Did it flag any assumptions you had not noticed yourself?
+- **Alternative version**: Was the informal agenda meaningfully different, or just a rearrangement of the same content? Did it feel like a real alternative approach?
+- **Consistency**: When asked to pick a side, did the model give a clear, reasoned answer — or did it try to please you by validating both? This is a good test for *sycophancy*.
+
+

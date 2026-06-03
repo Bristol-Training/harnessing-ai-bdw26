@@ -1,0 +1,33 @@
+---
+title: "Resources"
+---
+
+### Tools Used in This Course
+
+- **[duck.ai](https://duck.ai)** — Privacy-respecting AI chat interface by DuckDuckGo. Provides access to multiple LLMs without saving your conversations.
+
+### Essential Reading
+
+- [UNESCO Recommendation on the Ethics of Artificial Intelligence (2021)](https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence) — The global ethical framework this course is grounded in
+- [UNESCO AI Ethics overview](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) — Accessible summary of core values and principles
+- [Anthropic's Prompt Engineering Guide](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) — Comprehensive guidance on effective prompting
+
+
+### AI Policy and Governance
+
+- [Alan Turing Institute: AI Ethics](https://www.turing.ac.uk/research/interest-groups/ai-ethics) — UK-based AI ethics research
+- [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — The European Union's regulatory framework for AI
+- [OHCHR: Human Rights and AI](https://www.ohchr.org/en/topic/digital-space-and-human-rights) — UN Human Rights guidance on AI
+- [ICO: Generative AI guidance (UK)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/) — UK data protection authority guidance on AI
+- [GDPR summary](https://gdpr.eu/what-is-gdpr/) — Plain-language overview of data protection rights
+
+
+### Understanding LLMs and AI
+
+- [Transformer architecture (Wikipedia)](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) 
+
+### Environmental Impact
+
+- Luccioni et al. (2024). [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://doi.org/10.1145/3630106.3658542) — Research on AI inference energy costs
+- Li et al. (2025). [Making AI Less "Thirsty"](https://doi.org/10.48550/arXiv.2304.03271) — Research on AI water consumption
+

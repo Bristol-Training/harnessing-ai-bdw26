@@ -1,0 +1,112 @@
+---
+title: "Ethics, Privacy & Fairness"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- Transparency, human oversight, privacy, and fairness are the UNESCO principles most directly relevant to everyday AI use
+- **You remain responsible** for every output you act on or share, regardless of whether AI generated it
+- Never submit other people's personal data to a commercial AI tool without checking the tool's privacy policy and your right to share it
+- AI systems inherit societal biases — actively **check outputs for bias** rather than assuming they are neutral
+- Intellectual property questions around AI-generated content are unresolved — treat AI output as a draft requiring genuine human authorship
+:::
+
+
+::: {.callout-caution icon="false"}
+### 🦆 Warm-up activity with duck.ai {#warm-up-context}
+
+Open [duck.ai](https://duck.ai) and send this prompt:
+
+> Write me a brief summary of 5 influential political leaders in the 20th century
+
+Review the output carefully. Are there any patterns in who is included or excluded? What assumptions or perspectives are embedded in the response? This exercise illustrates how AI outputs can reflect and amplify societal biases, making critical evaluation essential. 
+
+Now try:
+
+> Write me a brief summary of 5 influential political leaders in the 20th century **from diverse regions, genders, and political perspectives**.
+
+:::
+
+
+### Transparency
+
+The UNESCO Recommendation places transparency at the heart of responsible AI use. Being transparent means **acknowledging when AI has contributed to your work** — whether you are drafting a document, writing a social media post, or preparing a report. Transparency is not about apologising for using AI; it is about honesty with your audience.
+
+
+### Human Oversight
+
+UNESCO is explicit that humans must remain in control of decisions that affect people's lives. AI must not be the final decision-maker in employment, healthcare, legal proceedings, education, or any other high-stakes context. This principle also operates at the individual level: **you are responsible for any output you act on or share**, even when AI generated it.
+
+
+### Privacy and Data Protection
+
+
+When you use AI tools for work-related tasks, whether through web interfaces, APIs, or integrated applications, your data typically:
+
+1. **Travels over the internet** to AI company servers
+2. **Gets processed** by AI systems you don't control  
+3. **May be stored** temporarily or permanently by the AI provider
+4. **Could potentially be used** for training future AI models
+5. **Might be subject** to different legal jurisdictions
+
+Understanding this data flow is crucial for making informed decisions about what information you share with AI systems, especially when handling sensitive data or proprietary content. Always evaluate these risks and follow the law and any guidance from your organisation regarding AI use and data sharing.
+
+
+::: {.callout-important}
+## What not to submit to a commercial AI tool
+
+🚫 Other people's personal information — names, addresses, health data, financial details  
+🚫 Information shared with you in confidence — medical, legal, or personal disclosures  
+🚫 Unpublished work or commercially sensitive material  
+🚫 Passwords, API keys, or security credentials  
+🚫 Any content you would not be comfortable seeing in a data breach
+:::
+
+
+When choosing an AI tool for tasks involving sensitive information, look for a clear and readable privacy policy, the ability to opt out of training data collection, and compliance with data protection law in your country (such as GDPR in the UK and EU). For learning and general use, privacy-respecting tools such as [duck.ai](https://duck.ai) provide a good default — DuckDuckGo does not save conversations or use inputs for model training.
+
+
+### Fairness and Non-Discrimination
+
+AI systems are trained on data that reflects the inequalities and prejudices present in society. They can reproduce and amplify those biases in ways that are subtle and difficult to detect — particularly because the outputs look fluent and authoritative.
+
+Common patterns to watch for include gender bias (associating professions or leadership with particular genders), racial and ethnic bias (stereotypical associations or underrepresentation of certain groups), socioeconomic bias (assuming access to resources or education), and geographic bias (centring Western, English-speaking perspectives as the default).
+
+
+::: {.callout-note}
+## Bias detection questions
+
+When reviewing any AI output, ask:
+
+- **Representation**: Who is included in the examples, and who is absent?
+- **Language**: Are descriptions fair and respectful to all groups?
+- **Assumptions**: What unstated assumptions are embedded in the response?
+- **Perspectives**: Whose viewpoint is centred, and whose is absent?
+- **Stereotypes**: Are any harmful generalisations present?
+:::
+
+Producing more equitable outputs requires deliberate prompting — explicitly requesting diverse examples, asking for multiple perspectives, and challenging responses that default to a narrow worldview. Even then, the model's knowledge of underrepresented groups is often shallower and less reliable, making independent verification more important, not less.
+
+
+### Intellectual Property
+
+AI-generated content raises questions about ownership and copyright. Under UK law, works created by AI without human authorship may not attract copyright protection. If you use AI to assist with creating materials, you remain responsible for:
+
+-   Rights to any source material used
+-   Avoiding infringement of third-party IP
+-   Acknowledging AI use where required by academic integrity policies
+
+The most reliable approach is to treat AI outputs as **drafts requiring genuine human authorship**: revise substantively, add your own analysis and judgement, and attribute AI assistance where your context requires it.
+
+### The Human Dimensions of AI
+
+Beyond the formal principles, responsible use also involves asking what is lost — not just what is gained — when AI takes over a task.
+
+LLM training relies on human labellers who evaluate outputs and identify harmful content, work known as Reinforcement Learning from Human Feedback (RLHF). This labour is frequently outsourced to workers in lower-income countries, often under precarious conditions. The benefits of AI accrue largely to wealthy technology companies and their users; the costs are disproportionately borne by others.
+
+There is also a question about authenticity in human communication. Using AI to generate a response to a heartfelt message from a colleague or friend may signal — consciously or not — that their communication did not warrant genuine attention. And in learning and professional contexts, the *process* of writing and thinking has value that is separate from the quality of the finished product. Delegating that process to AI can produce an acceptable document while eroding the expertise that comes from doing the work yourself.
+
+<br>
+
+**These are not reasons to avoid AI. They are reasons to choose deliberately.**

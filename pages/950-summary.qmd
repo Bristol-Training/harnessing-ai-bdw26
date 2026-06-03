@@ -1,0 +1,43 @@
+---
+title: "Summary"
+---
+
+### What You Have Covered
+
+Congratulations on completing *Harnessing AI*. Here is a summary of the key ideas:
+
+**What are LLMs?** 
+LLMs predict the most likely next word based on patterns in vast training data. They work by pattern matching, not true understanding. They can hallucinate, carry bias, and make mistakes — and these limitations are not "bugs" but fundamental properties of how they work.
+
+**Context Matters.** 
+Vague prompts produce generic outputs. Providing clear context — who you are, what you need, for whom, in what format — consistently produces more useful results. Never share personal, confidential, or sensitive information with AI tools.
+
+**Prompting Frameworks.** 
+Structured prompting reduces wasted effort and improves output quality.
+
+**Conversational Learning.** 
+LLMs work best as thinking partners in multi-turn conversations. You can steer, correct, and challenge the model across multiple exchanges.
+
+**Responsible Use of AI.** 
+The UNESCO Recommendation on the Ethics of AI (2021) provides a universal framework grounded in human rights, fairness, transparency, human oversight, privacy, and environmental sustainability. These principles apply to everyone who uses AI — not just developers and policymakers.
+
+**Ethics & Environmental Impact.** 
+AI has a real environmental footprint. It inherits and can amplify societal biases. It raises questions about authentic human communication, labour practices, and intellectual property. Use AI where it adds genuine value; choosing not to use it is always a legitimate option.
+
+
+::: {.callout-note}
+## Your responsible AI checklist
+
+Before using an AI tool for any significant task:
+
+1. ✅ **Verify**: Do not act on specific facts, citations, or statistics without independent verification
+2. ✅ **Protect privacy**: Do not submit personal data about yourself or others without checking the tool's privacy policy
+3. ✅ **Maintain oversight**: You are responsible for every output you share or act on — review carefully
+4. ✅ **Be transparent**: Attribute AI assistance where your context requires it
+5. ✅ **Consider the human dimension**: Would the people affected feel respected by this use of AI?
+6. ✅ **Think proportionately**: Is the task genuinely worth the energy, privacy, and relational costs involved?
+:::
+
+<br>
+
+*Good luck, and use AI thoughtfully.*

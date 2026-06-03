@@ -1,0 +1,72 @@
+---
+title: "Responsible Use of AI"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- The **UNESCO Recommendation on the Ethics of Artificial Intelligence (2021)** is the world's first global standard on AI ethics, adopted unanimously by 193 member states
+- It is grounded in four core values: **human rights and dignity**, **peaceful and just societies**, **diversity and inclusiveness**, and **environment and ecosystem flourishing**
+- These values are translated into ten principles that apply to everyone who develops, deploys, or uses AI — including individuals using consumer tools in daily life
+:::
+
+### The UNESCO Framework
+
+Artificial intelligence is reshaping how people work, communicate, learn, and make decisions — at a pace that has outrun most existing legal and institutional frameworks. Recognising this, UNESCO spent two years consulting member states, civil society, and technical experts before unanimously adopting the **Recommendation on the Ethics of Artificial Intelligence** in November 2021. It is the first global standard-setting instrument on AI ethics, applicable to all 193 UNESCO member states.
+
+The Recommendation does not prohibit any particular use of AI. Instead, it establishes a shared set of values and principles against which uses can be evaluated — and invites each of us to take responsibility for the choices we make.
+
+### The Four Core Values
+
+The entire framework rests on four foundational values:
+
+1. **Human rights and human dignity**. 
+AI systems must respect, protect, and promote fundamental human rights throughout their lifecycle. This includes the right to privacy, freedom of expression, and protection from discrimination. Human dignity must be preserved in every context where AI is applied.
+
+2. **Peaceful, just, and interconnected societies**. 
+AI should contribute to social cohesion and respect cultural diversity. It must not be used to surveil populations without justification, manipulate public opinion, or undermine democratic institutions and the rule of law.
+
+3. **Diversity and inclusiveness**. 
+AI development must draw on diverse perspectives, and its benefits must be shared equitably. The burdens of AI — environmental costs, labour exploitation, displacement — must not be concentrated among those who are already disadvantaged.
+
+4. **Environment and ecosystem flourishing**. 
+AI systems should be designed and used with environmental sustainability in mind. The ecological costs of AI — energy, water, rare earth minerals, electronic waste — must be weighed against the value the technology provides.
+
+### The Ten Principles
+
+These values are translated into ten actionable principles that describe what responsible AI use looks like in practice:
+
+- **Proportionality and do no harm** — AI should only be used where benefits outweigh risks, and never in ways that cause unnecessary harm.
+
+- **Safety and security** — AI systems should not pose undue risks to users, third parties, or society.
+
+- **Fairness and non-discrimination** — AI must not perpetuate or amplify unjust bias based on gender, race, age, disability, religion, or other protected characteristics.
+
+- **Sustainability** — The environmental costs of AI must be recognised and minimised.
+
+- **Privacy and data protection** — Personal data used by AI systems must be handled with full respect for privacy rights.
+
+- **Human oversight and determination** — Humans must retain meaningful control over AI-assisted decisions, especially those with significant consequences for people's lives.
+
+- **Transparency and explainability** — Users should be able to understand when AI is involved and, where relevant, how decisions are reached.
+
+- **Responsibility and accountability** — Someone must always be identifiable as responsible for an AI system's outputs and impacts.
+
+- **Awareness and literacy** — People need the knowledge and skills to use AI effectively and critically — which is precisely what this course aims to provide.
+
+- **Multi-stakeholder and adaptive governance** — AI governance must involve diverse voices and must evolve as the technology develops.
+
+
+::: {.callout-important}
+### Why This Matters for Everyday Use
+
+The UNESCO framework is most often discussed at the level of governments and large organisations — but it applies equally to individuals. Every time you use an AI tool, you are making choices that touch on these principles, whether:
+
+- to be transparent about AI involvement
+- to verify outputs before acting on them
+- the task is proportionate to its environmental cost
+- whether you are sharing data that belongs to someone else
+
+Responsible use means asking not just *"can I do this?"* but *"should I, and in what way?"*
+
+:::

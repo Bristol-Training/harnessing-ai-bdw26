@@ -1,0 +1,49 @@
+---
+title: "Environmental Impact"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- AI has a significant and growing environmental footprint across its entire lifecycle — energy, water, hardware, and electronic waste
+- The inference phase (everyday use) collectively outweighs training as an environmental cost once a model is widely deployed
+- The UNESCO principle of environmental sustainability calls for proportionality: use AI where it genuinely adds value, and avoid unnecessary or trivial use
+:::
+
+
+The UNESCO Recommendation places environment and ecosystem flourishing as one of its four core values — not as an afterthought, but as a fundamental ethical dimension of AI use. This reflects the reality that AI systems are not virtual in any meaningful sense: they depend on physical infrastructure with real material and energy demands, and those demands are growing rapidly.
+
+Understanding the environmental costs of AI does not require you to stop using it. It asks for the same proportionality that responsible use requires in other domains: awareness of the costs, and deliberate choices about when the benefits justify them.
+
+### Energy Consumption
+
+**Training** is the phase most often discussed. Training GPT-3 from scratch is estimated to have produced approximately 85,000 kg of CO₂ — roughly equivalent to 112 cars running for a year. Larger and more recent models carry correspondingly higher costs.
+
+**Inference** — the energy consumed every time you have a conversation with an AI tool — has received less attention but matters more at scale. Research shows that the cumulative inference load across all users can exceed the carbon cost of training within weeks of a widely-used model's release ([Luccioni et al., 2024](https://doi.org/10.1145/3630106.3658542)). Individual queries appear negligible; aggregated across millions of users and billions of queries, they are not.
+
+### Water Consumption
+
+Data centres require continuous cooling, and approximately 40% of their energy consumption goes toward this purpose. The cooling process is water-intensive: research suggests that ChatGPT consumes approximately half a litre of fresh water for every 20–50 prompts exchanged ([Li et al., 2025](https://doi.org/10.48550/arXiv.2304.03271)).
+
+::: {.callout-warning}
+## Water scarcity and AI infrastructure
+
+Two-thirds of new data centres built in the United States since 2022 are located in areas already experiencing water stress. The growth of AI infrastructure is intersecting directly with an existing global water scarcity crisis — particularly in regions where communities already face shortages. This is not an abstract future concern; it is a present environmental justice issue.
+:::
+
+### Hardware and Materials
+
+The environmental footprint extends beyond electricity and water. AI infrastructure requires the extraction of rare earth minerals for specialised chips, the energy-intensive manufacturing of that hardware, and the eventual disposal of electronic waste. These costs are geographically concentrated: mining and manufacturing tend to occur in lower-income countries, while the benefits of AI are concentrated elsewhere. The full lifecycle cost of AI is rarely visible to end users.
+
+### Sustainable AI Practices
+
+The UNESCO principle of sustainability calls for **proportionality** — a genuine weighing of costs against benefits. In practice, this means:
+
+- Using AI for tasks where it adds real value, not trivial or easily completed tasks
+- Batching similar queries together rather than running many short, separate sessions
+- Avoiding unnecessary regeneration of the same content
+- Where you have a choice between providers, preferring those who publish clear commitments to renewable energy and sustainable infrastructure
+- Recognising that **choosing not to use AI is always a legitimate option**, and for some tasks, the more responsible one
+
+As a user, the most meaningful contribution you can make is to engage with AI as a considered choice rather than a default — and to support the broader accountability that the UNESCO framework envisions.
+

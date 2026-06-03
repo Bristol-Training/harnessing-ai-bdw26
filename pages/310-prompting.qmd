@@ -1,0 +1,101 @@
+---
+title: "Prompting Frameworks"
+---
+
+::: {.callout-note collapse="true"}
+## Key Takeaways
+
+- High-quality prompts eliminate ambiguity — clear context upfront gets better responses
+- Structured frameworks like CLEAR help ensure your prompt is complete
+- There is no single "correct" framework — use what works best for you and your context
+- Never share personal, confidential, or sensitive information in any prompt
+:::
+
+
+We can use some frameworks to standardize our queries and make sure they are complete and don't forget any relevant details. There's no right or wrong approach — different frameworks may work better for different AI tools and yourself, so use the one that works better for you.
+
+### The CLEAR Framework
+
+High-quality prompts eliminate ambiguity. By providing comprehensive context upfront, you are more likely to receive output that matches your requirements without multiple rounds of correction.
+
+The **CLEAR framework** offers a systematic approach to prompt construction:
+
+**C — Context**: Establish the situation and background
+
+- Explain who you are and what you are working on
+- Provide relevant background about your project or domain
+- Include any important constraints or considerations
+
+**L — Length**: Define output requirements
+
+- Specify how much content you want (word count, number of items, etc.)
+- Indicate format preferences (paragraphs, bullet points, structured sections)
+- Include any structural requirements
+
+**E — Examples**: Illustrate desired outcomes
+
+- Show examples of the style or format you are looking for
+- Provide sample inputs or scenarios when relevant
+- Include both positive examples (what you want) and negative examples (what to avoid)
+
+**A — Action**: State the specific task
+
+- Clearly articulate what you want the AI to do
+- Use specific action verbs (create, analyse, summarise, compare, explain)
+- Be direct and avoid ambiguous language
+- Focus on one primary task per prompt
+
+**R — Role**: Define the AI's perspective
+
+- Specify what expertise or viewpoint the AI should adopt
+- Indicate the audience the AI should write for
+- Guide the AI's tone and decision-making approach
+
+
+
+#### Example applying CLEAR framework
+
+**Scenario**: You manage social media for a local charity supporting elderly people living alone and want to write a recruitment post for volunteers.
+
+> **Context**: I manage communications for a small charity that runs a befriending service for elderly people living alone. We want to recruit new telephone volunteers—people who call a lonely older person once a week for a friendly chat.
+>
+> **Length**: Write a 200-word recruitment post with a short headline.
+>
+> **Examples**: Use a warm, human tone—similar to this: *"Last year, Sarah spent 20 minutes a week making calls that meant everything to someone who had no one else."* Avoid corporate language or guilt-tripping.
+>
+> **Action**: Write a volunteer recruitment post for our charity's Facebook page.
+>
+> **Role**: Act as a charity communications officer who understands how to inspire volunteers through storytelling and empathy, not pressure.
+
+<br>
+---
+
+
+### Exercise 3: Building a Prompt with CLEAR
+
+**Scenario**: You are planning a community workshop on digital skills for older adults.
+
+**Task**: Use the CLEAR framework to write a prompt in [duck.ai](https://duck.ai) that asks for a 2-hour workshop agenda. Then reflect on the output:
+
+- Did the model follow your format requirements?
+- Was the level of detail appropriate for the audience you specified?
+- What would you change in your prompt to improve the output?
+
+::: {.callout-tip collapse="true"}
+## Solution example
+
+> **Context**: I am a librarian organising a free 2-hour digital skills workshop for adults aged 65 and over. Many participants will have little or no experience using smartphones or tablets. The workshop will be held at the local library with a maximum of 12 participants and one facilitator.
+>
+> **Length**: Create a detailed 2-hour workshop agenda with 15–20 minute segments.
+>
+> **Examples**: Include hands-on practice time after each concept is introduced, similar to this structure: *introduce → demonstrate → participants try → debrief*. No slide-heavy lectures.
+>
+> **Action**: Design an agenda that progresses from very basic (turning a device on, navigating home screen) to practical tasks (sending a message, using video calls).
+>
+> **Role**: Act as an experienced adult digital inclusion facilitator who understands common anxieties older adults have about technology.
+>
+> **Additional constraints**:
+> - Avoid technical jargon; explain everything in plain English
+> - Include a comfort break
+> - End with a Q&A and a list of local support resources participants can take home
+:::
