@@ -87,15 +87,6 @@ LLMs have **context windows**—limits on how much text they can process at once
 - Break complex tasks into smaller, sequential steps
 - Use previous outputs as context for follow-up requests (within the same session)
 
-### Iterative Context Building
-
-You will rarely get the ideal result on the first attempt. A productive strategy is to start simple and refine:
-
-1. **Initial request**: Provide core context
-2. **Review output**: Identify what is missing or off-target
-3. **Refine context**: Add specific details or correct misunderstandings
-4. **Iterate**: Repeat until the output meets your needs
-
 ---
 
 ### Exercise 2: Context Writing

@@ -64,7 +64,7 @@ Then ask your questions within that framing.
 
 ### Exercise 4: A Guided Conversation
 
-This exercise continues directly from Exercise 3. Do not start a new chat — use the same <duck.ai> session where you generated the workshop agenda.
+This exercise continues directly from Exercise 3. Do not start a new chat — use the same [duck.ai](https://duck.ai) session where you generated the workshop agenda.
 
 **Task**: Send each of the following follow-up prompts in turn, reading the response carefully before moving on.
 

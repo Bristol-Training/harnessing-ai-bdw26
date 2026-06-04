@@ -81,6 +81,8 @@ The **CLEAR framework** offers a systematic approach to prompt construction:
 - Was the level of detail appropriate for the audience you specified?
 - What would you change in your prompt to improve the output?
 
+**Don't close the chat session after this exercise **— you will use the same one for Exercise 4 in the next section.
+
 ::: {.callout-tip collapse="true"}
 ## Solution example
 
